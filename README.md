@@ -1,4 +1,4 @@
-# WlanKey-Extractor
+# WlanKey-Extractor (WKE)
 
 WLANKEY-EXTRACTOR (WKE)
 A straightforward C++ utility for Windows designed to recover saved Wi-Fi passwords and network security details with zero hassle.
